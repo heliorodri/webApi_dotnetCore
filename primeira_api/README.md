@@ -1,8 +1,11 @@
 # WebApi .Net Core 3.x
 
-### Ferramenta utilizada para testar a API
-- Postman
-- link para download: https://www.postman.com/downloads/
+## Cadastro de Produtos e suas respectivas categorias
+<br>
+
+#### Como testar
+
+<br>
 
 # Categorias
 
@@ -39,6 +42,8 @@
             "title": "teste dois"
         }
     ]
+
+<br><br>
 
 # Produtos
 
